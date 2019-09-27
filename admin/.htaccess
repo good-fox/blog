@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin Panel"
+AuthUserFile E:/wamp64/www/blog/admin/.htpasswd
+Require valid-user
